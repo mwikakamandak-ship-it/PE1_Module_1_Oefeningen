@@ -2,4 +2,4 @@
 
 
 
-console.log('Hallo '+ name +', ik hoor dat je '+ age +' jaar oud bent en dat je lievelingsgame '+ favoriteGame +' is.');
+console.log('Hallo '+ Kevin +', ik hoor dat je '+ 30 +' jaar oud bent en dat je lievelingsgame '+ Fifa27 +' is.');
